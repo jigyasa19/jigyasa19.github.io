@@ -1,0 +1,10 @@
+what is <div> and its function?
+          - Important tag and divides the page into sections
+          - Remember to always add two spaces of indentation when you nest elements inside of <div>s for better readability(explain)
+What is division id and its function?
+What is span? 
+          - short pieces of text
+How to turn images to link?
+a href 
+target=_blank
+          
